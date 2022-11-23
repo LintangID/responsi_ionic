@@ -1,0 +1,7 @@
+{
+  "name": "cobaLogin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
